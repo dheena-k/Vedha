@@ -20,25 +20,25 @@ const mono = JetBrains_Mono({ subsets: ["latin"], weight: ["400", "500"], variab
 
 const SERVICES = [
   {
-    code: "MIG",
+    code: "MIg",
     title: "MIG & Flux-Core",
     desc: "High-deposition welds for structural steel, frames, and fabrication runs where speed and consistency matter.",
     spec: "0.030\u20130.045\" wire / up to 1\" plate",
   },
   {
-    code: "TIG",
+    code: "TIg",
     title: "TIG Precision",
     desc: "Clean, controlled arcs for stainless, aluminum, and anywhere the finish weld is part of the deliverable.",
     spec: "Aluminum / stainless / chromoly",
   },
   {
-    code: "STK",
+    code: "STk",
     title: "Stick (SMAW)",
     desc: "Field welding in wind, rust, and rough conditions \u2014 repairs, heavy equipment, and on-site structural work.",
     spec: "Rated for outdoor field service",
   },
   {
-    code: "FAB",
+    code: "FAb",
     title: "Custom Fabrication",
     desc: "Railings, gates, brackets, trailers, and one-off builds drafted, cut, and welded from your spec or sketch.",
     spec: "Design \u2192 cut \u2192 weld \u2192 finish",
